@@ -32,3 +32,5 @@ capistrano-variables
 * **maintenence_template_path** – defaults to the ‘templates/maintenance.rhtml’ path
 * **migrate_env**
 * **migrate_target** – the version to migrate to. Defaults to :latest.
+
+via http://theadmin.org/articles/capistrano-variables/
